@@ -1,0 +1,7 @@
+Flask
+MetaTrader5
+SQLAlchemy
+PyJWT
+requests
+pandas
+numpy
